@@ -7,6 +7,10 @@
     "icon": "./assets/images/icon.png",
     "scheme": "livefitai",
     "userInterfaceStyle": "automatic",
+    "assets": [
+     
+      "./mediapipe_models" 
+    ],
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true
