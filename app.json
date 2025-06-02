@@ -3,8 +3,8 @@
     "name": "LiveFitAI",
     "slug": "LiveFitAI",
     "assetBundlePatterns": [
-      "assets/images/*", 
-      "assets/mediapipe_models/*" 
+      "assets/images/*",
+      "assets/mediapipe_models/*"
     ],
     "version": "1.0.0",
     "orientation": "portrait",
@@ -41,7 +41,8 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
-      ]
+      ],
+      "./plugins/withCopyMediaPipeModels.js"
     ],
     "experiments": {
       "typedRoutes": true
@@ -49,9 +50,9 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "11faa49d-2212-45bc-b4ac-6bcc23754fd1"
+        "projectId": "6d6e3957-574e-4f89-b6bc-0ea801fea5df"
       }
     },
-    "owner": "uzair_01"
+    "owner": "uzair_02"
   }
 }
