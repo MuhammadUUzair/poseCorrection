@@ -6,7 +6,7 @@
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "livefitai",
-    "userInterfaceStyle": "automatic", 
+    "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true
@@ -45,8 +45,9 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "1d6d83d9-48f8-43cc-a13d-075a0a675055"
+        "projectId": "11faa49d-2212-45bc-b4ac-6bcc23754fd1"
       }
-    }
+    },
+    "owner": "uzair_01"
   }
 }
